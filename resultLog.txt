@@ -1,0 +1,4 @@
+You answered 90.0% correctly.
+Congratulations you passed.
+You answered 15.0% correctly.
+Sorry, you didn't pass. Need at least 15 correct answers (75%) to pass. 
